@@ -5,12 +5,190 @@
     <link>https://zhuochen-ucla.github.io/</link>
       <atom:link href="https://zhuochen-ucla.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>Zhuo Chen</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 12 Jan 2022 09:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 07 Nov 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://zhuochen-ucla.github.io/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>Zhuo Chen</title>
       <link>https://zhuochen-ucla.github.io/</link>
     </image>
+    
+    <item>
+      <title>A New Cosmic Ray Rejection Routine for HST WFC3/UVIS via label-free training of deepCR</title>
+      <link>https://zhuochen-ucla.github.io/publication/pub0/</link>
+      <pubDate>Tue, 07 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>https://zhuochen-ucla.github.io/publication/pub0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The Panchromatic Hubble Andromeda Southern Treasury (PHAST) survey</title>
+      <link>https://zhuochen-ucla.github.io/post/projectphast/</link>
+      <pubDate>Mon, 09 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://zhuochen-ucla.github.io/post/projectphast/</guid>
+      <description>
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-figure-1-left-density-map-of-main-sequence-ms-stars-inset-shows-stars-with-f475w&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Figure 1: Left: Density map of main sequence (MS) stars; inset shows stars with F475W &#34; srcset=&#34;
+               /post/projectphast/figure1_hu0ad431cf623380fa3110fa62e29ac011_8399782_007ceba7513d281f659462b67c8fc1df.jpg 400w,
+               /post/projectphast/figure1_hu0ad431cf623380fa3110fa62e29ac011_8399782_13966609d81f2a5ddec75bc6206284d5.jpg 760w,
+               /post/projectphast/figure1_hu0ad431cf623380fa3110fa62e29ac011_8399782_1200x1200_fit_q100_lanczos.jpg 1200w&#34;
+               src=&#34;https://zhuochen-ucla.github.io/post/projectphast/figure1_hu0ad431cf623380fa3110fa62e29ac011_8399782_007ceba7513d281f659462b67c8fc1df.jpg&#34;
+               width=&#34;100%&#34;
+               height=&#34;auto&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Figure 1: Left: Density map of main sequence (MS) stars; inset shows stars with F475W &amp;lt; 26.5 mag. Upcoming data will complete the PHAST region. Right: Optical CMD of one field, presenting good quality stars that exhibit distinct features. MS stars from red polygon populate the left map.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;div style=&#34;text-align: justify&#34;&gt;
+&lt;p&gt;This Panchromatic Hubble Andromeda Southern Treasury (PHAST) survey is creating a legacy map of M31’s southern star-forming disk (Chen et al., in prep) with photometric observations from the Hubble Space Telescope (HST), covering both optical (F475W, F814W) and near ultraviolet (F275W, F336W). As the closest large metal-rich spiral to the Milky Way, M31 offers a unique laboratory to resolve stars in the disk to study star and galaxy formation and evolution. The PHAST survey, spanning ~13 kpc along the southern major axis, covers regions structurally unique and more indicative of merger history than the northern disk, as mapped in the completed PHAT program. The survey includes 195 orbit visits, totaling 1,560 exposures. 98% of the PHAST observations are now complete.&lt;/p&gt;
+&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-figure-2-color-image-of-one-brick-created-using-the-phast-survey-images-in-f814w-red-f475w-green-and-f336w-blue-the-zoom-in-panel-shows-the-rich-detail-available-at-hst-resolution&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Figure 2: Color image of one brick, created using the PHAST survey images in F814W (red), F475W (green) and F336W (blue). The zoom-in panel shows the rich detail available at HST resolution&#34; srcset=&#34;
+               /post/projectphast/figureRGB_hu0577a715199d84e45f4731c894a501b6_57345745_6f7f0d7e844a62fcdf5e8be02eda3203.jpg 400w,
+               /post/projectphast/figureRGB_hu0577a715199d84e45f4731c894a501b6_57345745_d7b810d0009b778b65d00df4a779ef92.jpg 760w,
+               /post/projectphast/figureRGB_hu0577a715199d84e45f4731c894a501b6_57345745_1200x1200_fit_q100_lanczos.jpg 1200w&#34;
+               src=&#34;https://zhuochen-ucla.github.io/post/projectphast/figureRGB_hu0577a715199d84e45f4731c894a501b6_57345745_6f7f0d7e844a62fcdf5e8be02eda3203.jpg&#34;
+               width=&#34;100%&#34;
+               height=&#34;auto&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Figure 2: Color image of one brick, created using the PHAST survey images in F814W (red), F475W (green) and F336W (blue). The zoom-in panel shows the rich detail available at HST resolution
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;div style=&#34;text-align: justify&#34;&gt;
+&lt;p&gt;I have measured photometry for over 100 million resolved stars in M31, employing simultaneous point spread function (PSF) fitting with DOLPHOT across all bands and source positions with precise astrometry. Photometry is refined using quality criteria, with stars that pass the metric displaying distinct features on the color-magnitude diagram (CMD, Figure 1). In the uncrowded outer disk, photometry reaches F275W~25, F336W~26, F475W~28, and F814W~27. Alongside the PHAT legacy catalog, these datasets cover the entire galaxy (Figure 1), creating the largest catalog ever for over 200 million equidistant sources, soon available to the public.&lt;/p&gt;
+&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-figure-3-left-northern-m31s-star-formation-history-measured-from-phat-showing-a-2-gyr-old-burst-right-illustris-predictions-for-two-halves-of-an-m31-analog-with-a-4-gyr-ago-major-merger-only-one-half-has-a-star-formation-episode-2-4-gyr-ago-similar-to-phat&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Figure 3: Left: Northern M31’s star formation history measured from PHAT, showing a 2-Gyr old burst. Right: Illustris predictions for two halves of an M31-analog with a 4-Gyr-ago major merger. Only one half has a star formation episode 2-4 Gyr ago similar to PHAT.&#34; srcset=&#34;
+               /post/projectphast/figure2_hub4126514c6f7ccf9d97223f25882e65c_2365216_8335f55d7008359dfd0a38cc4aa63ebd.jpg 400w,
+               /post/projectphast/figure2_hub4126514c6f7ccf9d97223f25882e65c_2365216_0938f8e46a12d98f7eafbf9c179c67ed.jpg 760w,
+               /post/projectphast/figure2_hub4126514c6f7ccf9d97223f25882e65c_2365216_1200x1200_fit_q100_lanczos.jpg 1200w&#34;
+               src=&#34;https://zhuochen-ucla.github.io/post/projectphast/figure2_hub4126514c6f7ccf9d97223f25882e65c_2365216_8335f55d7008359dfd0a38cc4aa63ebd.jpg&#34;
+               width=&#34;100%&#34;
+               height=&#34;auto&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Figure 3: Left: Northern M31’s star formation history measured from PHAT, showing a 2-Gyr old burst. Right: Illustris predictions for two halves of an M31-analog with a 4-Gyr-ago major merger. Only one half has a star formation episode 2-4 Gyr ago similar to PHAT.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;div style=&#34;text-align: justify&#34;&gt;
+&lt;p&gt;I am currently investigating the ancient and recent star formation history of M31’s southern disk, which covers key diagnostic features indicative of its merger history, including intersections with M32, the giant southern stream, the splitted star formation ring, and southern bar. Competing merger history models for M31 suggest distinct stellar population signatures. Illustris simulations of an M31 analog suggest that if a major merger occurred 4 Gyr ago, one disk half would exhibit a significant star formation burst between 2 - 4 Gyr ago, as seen in PHAT, while the other wouldn&amp;rsquo;t (Figure 3). This burst would create discernible CMD features with a significance over 10σ. My work involves spatially mapping the southern disk&amp;rsquo;s star formation history by fitting the observed CMDs to stellar evolution models using the MATCH code. Additionally, we are developing a novel method to construct the large-scale dust geometry using only the PHAST optical catalog. This comprehensive star formation history mapping will reveal any existing asymmetry and determine the timescales of merger scenarios throughout the disk, providing observational constraints of the impact of mergers on disk formation and evolution.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A New Cosmic Ray Rejection Routine for HST WFC3/UVIS via label-free training of deepCR</title>
+      <link>https://zhuochen-ucla.github.io/post/projectcr/</link>
+      <pubDate>Sun, 08 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>https://zhuochen-ucla.github.io/post/projectcr/</guid>
+      <description>
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-figure-1-top-left-wfc3uvis-calibrated-dark-frame-hst16568-top-right-wfc3uvis-image-in-f336w-of-m31-hst16801-bottom-left-the-result-of-adding-the-dark-frame-to-the-raw-image-bottom-right-the-same-image-with-all-crs-removed-by-deepcr-including-both-from-the-raw-image-and-dark-frame-masked-pixel-values-are-filled-with-a-3--3-median-filter&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Figure 1: Top left: WFC3/UVIS calibrated dark frame (HST:16568). Top right: WFC3/UVIS image in F336W of M31 (HST:16801). Bottom left: The result of adding the dark frame to the raw image. Bottom right: The same image with all CRs removed by deepCR, including both from the raw image and dark frame. Masked pixel values are filled with a 3 × 3 median filter.&#34; srcset=&#34;
+               /post/projectcr/cr_fig1_hu4c385a4a30e099b2347818c4091ad847_2745014_d1ca710db4db19a82fa860d98cb4ce9b.jpg 400w,
+               /post/projectcr/cr_fig1_hu4c385a4a30e099b2347818c4091ad847_2745014_f1f4b77dfad44910a0506cbc37d6d4ca.jpg 760w,
+               /post/projectcr/cr_fig1_hu4c385a4a30e099b2347818c4091ad847_2745014_1200x1200_fit_q100_lanczos.jpg 1200w&#34;
+               src=&#34;https://zhuochen-ucla.github.io/post/projectcr/cr_fig1_hu4c385a4a30e099b2347818c4091ad847_2745014_d1ca710db4db19a82fa860d98cb4ce9b.jpg&#34;
+               width=&#34;100%&#34;
+               height=&#34;auto&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Figure 1: Top left: WFC3/UVIS calibrated dark frame (HST:16568). Top right: WFC3/UVIS image in F336W of M31 (HST:16801). Bottom left: The result of adding the dark frame to the raw image. Bottom right: The same image with all CRs removed by deepCR, including both from the raw image and dark frame. Masked pixel values are filled with a 3 × 3 median filter.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;div style=&#34;text-align: justify&#34;&gt;
+&lt;p&gt;deepCR is a deep-learning-based cosmic ray (CR) rejection framework originally presented by Zhang &amp;amp; Bloom (2020). The original approach requires a dedicated training set that consists of multiple frames of the same fields, enabling automatic CR labeling through comparison with their median co-adds. Here, we present a novel training approach that circumvents the need for a dedicated training set, but instead utilizes dark frames and the science images requiring CR removal themselves. During training, CRs present in dark frames are added to the science images, which the network is then trained to identify. In turn, the trained deepCR model can then be applied to identify CRs originally present in the science images. Using this approach, we present a new deepCR model trained on a diverse set of Hubble Space Telescope (HST) images taken from resolved galaxies in the local group, which is universally applicable across all WFC3/UVIS filters.&lt;/p&gt;
+&lt;/div&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-figure-2-top-left-fraction-of-total-number-of-gst-stars-from-one-example-hst-visit-as-applied-with-different-deepcr-masking-thresholds-compared-to-the-legacy-mode-the-resulting-number-of-gst-stars-drops-quickly-below-the-threshold-of-01-top-right-fraction-of-gst-stars-that-are-added-or-lost-with-different-deepcr-masking-thresholds-respectively-which-together-construct-the-overall-curve-on-the-left-figure-bottom-left-uv-gst-cmd-the-red-box-marks-the-cmd-features-of-the-most-importance-bottom-right-fraction-of-gst-stars-that-are-added-or-lost-within-the-cmd-featured-box-as-a-function-of-deepcr-masking-thresholds-dashed-lines-represent-the-results-when-the-featured-box-is-dithered-to-avoid-selection-edge-effects-deepcr-masking-keeps-adding-more-gst-stars-within-the-cmd-featured-region-until-the-threshold-is-around-008-while-the-masking-starts-to-lose-featured-stars-prominently-below-the-threshold-of-01&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Figure 2: Top left: Fraction of total number of GST stars from one example HST visit as applied with different deepCR masking thresholds compared to the legacy mode. The resulting number of GST stars drops quickly below the threshold of 0.1. Top right: Fraction of GST stars that are added or lost with different deepCR masking thresholds, respectively, which together construct the overall curve on the left figure. Bottom left: UV GST CMD. The red box marks the CMD features of the most importance. Bottom right: Fraction of GST stars that are added or lost within the CMD featured box as a function of deepCR masking thresholds. Dashed lines represent the results when the featured box is dithered to avoid selection edge effects. deepCR masking keeps adding more GST stars within the CMD featured region until the threshold is around 0.08, while the masking starts to lose featured stars prominently below the threshold of 0.1.&#34; srcset=&#34;
+               /post/projectcr/cr_fig2_hu6464331489d8c7a317918e465c89ff8a_1858561_77269b9dc11b43e6466ebcb2eda696f4.jpg 400w,
+               /post/projectcr/cr_fig2_hu6464331489d8c7a317918e465c89ff8a_1858561_fbf03314aee10d7a1c498136c765123c.jpg 760w,
+               /post/projectcr/cr_fig2_hu6464331489d8c7a317918e465c89ff8a_1858561_1200x1200_fit_q100_lanczos.jpg 1200w&#34;
+               src=&#34;https://zhuochen-ucla.github.io/post/projectcr/cr_fig2_hu6464331489d8c7a317918e465c89ff8a_1858561_77269b9dc11b43e6466ebcb2eda696f4.jpg&#34;
+               width=&#34;100%&#34;
+               height=&#34;auto&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      Figure 2: Top left: Fraction of total number of GST stars from one example HST visit as applied with different deepCR masking thresholds compared to the legacy mode. The resulting number of GST stars drops quickly below the threshold of 0.1. Top right: Fraction of GST stars that are added or lost with different deepCR masking thresholds, respectively, which together construct the overall curve on the left figure. Bottom left: UV GST CMD. The red box marks the CMD features of the most importance. Bottom right: Fraction of GST stars that are added or lost within the CMD featured box as a function of deepCR masking thresholds. Dashed lines represent the results when the featured box is dithered to avoid selection edge effects. deepCR masking keeps adding more GST stars within the CMD featured region until the threshold is around 0.08, while the masking starts to lose featured stars prominently below the threshold of 0.1.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>The Star Formation History of the Milky Way’s Nuclear Star Cluster</title>
+      <link>https://zhuochen-ucla.github.io/publication/pub1/</link>
+      <pubDate>Tue, 14 Feb 2023 00:00:00 +0000</pubDate>
+      <guid>https://zhuochen-ucla.github.io/publication/pub1/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>PRESS CONFERENCE - A New Window on Star Formation History at the Galactic Center</title>
@@ -33,7 +211,8 @@
       <link>https://zhuochen-ucla.github.io/post/project2/</link>
       <pubDate>Mon, 09 Aug 2021 00:00:00 +0000</pubDate>
       <guid>https://zhuochen-ucla.github.io/post/project2/</guid>
-      <description>
+      <description>&lt;h4 id=&#34;publication-the-star-formation-history-of-the-milky-ways-nuclear-star-clusterhttpsdoiorg1038471538-4357aca8ad&#34;&gt;Publication: &lt;a href=&#34;https://doi.org/10.3847/1538-4357/aca8ad&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;The Star Formation History of the Milky Way’s Nuclear Star Cluster&lt;/a&gt;&lt;/h4&gt;
+
 
 
 
@@ -92,7 +271,7 @@
       Figure 2: H-R diagram with MIST isochrones for ages 3 Gyr (’dashed’) and 10 Gyr (’solid’) with colors showing the different metallicities. There is a strong degeneracy between the age and metallicity for modelling the cluster population. Generally, the stellar population with lower temperature and fainter brightness can be interpreted as either old or high metallicity.
     &lt;/figcaption&gt;&lt;/figure&gt;
 &lt;div style=&#34;text-align: justify&#34;&gt;
-&lt;p&gt;In this project, I present NSC’s star formation history for the first time with metallicity constraints as obtained from a large sample of stellar metallicity measurements from Keck, Gemini and VLT. I developed a Bayesian inference methodology to derive NSC’s star formation history and global properties from photometry and spectroscopy of 770 late-type stars. I apply a forward-modeling approach and a Bayesian framework to derive properties using simulations of synthetic clusters while accounting for observational uncertainties, completeness, degeneracies between properties and stellar multiplicity. &lt;strong&gt;I have successfully established a 3-d cluster modeling tool (Chen et al., in prep), that for the first time includes measurements of K luminosity, colors, effective temperature (Teff) and metallicity&lt;/strong&gt;. This tool improves the constraints on NSC’s age, metallicity distribution and initial mass function (IMF). I contributed to the open source Python package SPISEA (Hosek et al. 2020) with metallicity interpolation in generating clusters, and the first function of star formation history modeling.&lt;/p&gt;
+&lt;p&gt;In this project, I present NSC’s star formation history for the first time with metallicity constraints as obtained from a large sample of stellar metallicity measurements from Keck, Gemini and VLT. I developed a Bayesian inference methodology to derive NSC’s star formation history and global properties from photometry and spectroscopy of 770 late-type stars. I apply a forward-modeling approach and a Bayesian framework to derive properties using simulations of synthetic clusters while accounting for observational uncertainties, completeness, degeneracies between properties and stellar multiplicity. &lt;strong&gt;I have successfully established a 3-d cluster modeling tool (Chen et al. 2023a), that for the first time includes measurements of K luminosity, colors, effective temperature (Teff) and metallicity&lt;/strong&gt;. This tool improves the constraints on NSC’s age, metallicity distribution and initial mass function (IMF). I contributed to the open source Python package SPISEA (Hosek et al. 2020) with metallicity interpolation in generating clusters, and the first function of star formation history modeling.&lt;/p&gt;
 &lt;/div&gt;
 
 
@@ -169,9 +348,9 @@
 
 
 
-&lt;figure  id=&#34;figure-figure-5-imf-and-metallicity-are-crucial-cluster-properties-to-measure-for-predicting-the-number-of-compact-objects-and-their-gravitational-wave-merger-rates-at-the-galactic-center-high-metallicity-of-the-nsc-modeled-in-this-project-feh05-chen-et-al-in-prep-yellow-predicts-3-fewer-neutron-stars-left-a-top-heavy-imf-α17-lu-et-al-2013-red-predicts--3-more-black-holes-2-more-neutron-stars-right-than-that-with-a-canonical-imf-chen-et-al-in-prep&#34;&gt;
+&lt;figure  id=&#34;figure-figure-5-imf-and-metallicity-are-crucial-cluster-properties-to-measure-for-predicting-the-number-of-compact-objects-and-their-gravitational-wave-merger-rates-at-the-galactic-center-high-metallicity-of-the-nsc-modeled-in-this-project-feh05-chen-et-al-2023a-yellow-predicts-3-fewer-neutron-stars-left-a-top-heavy-imf-α17-lu-et-al-2013-red-predicts--3-more-black-holes-2-more-neutron-stars-right-than-that-with-a-canonical-imf-chen-et-al-2023a&#34;&gt;
   &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
-    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Figure 5: IMF and metallicity are crucial cluster properties to measure for predicting the number of compact objects and their gravitational wave merger rates at the Galactic Center. High metallicity of the NSC, modeled in this project ([Fe/H]=0.5, **Chen et al., in prep**, yellow), predicts 3× fewer neutron stars (Left). A top-heavy IMF (α=1.7, Lu et al. 2013, red) predicts ~ 3× more black holes, 2× more neutron stars (right) than that with a canonical IMF **(Chen et al., in prep)**.&#34; srcset=&#34;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img alt=&#34;Figure 5: IMF and metallicity are crucial cluster properties to measure for predicting the number of compact objects and their gravitational wave merger rates at the Galactic Center. High metallicity of the NSC, modeled in this project ([Fe/H]=0.5, **Chen et al. 2023a**, yellow), predicts 3× fewer neutron stars (Left). A top-heavy IMF (α=1.7, Lu et al. 2013, red) predicts ~ 3× more black holes, 2× more neutron stars (right) than that with a canonical IMF **(Chen et al. 2023a)**.&#34; srcset=&#34;
                /post/project2/numcomp_hu535661bce2c742bf7a0f6a055ac0b6d1_1023836_d298cebeaf334fc4535e7341ca460734.jpg 400w,
                /post/project2/numcomp_hu535661bce2c742bf7a0f6a055ac0b6d1_1023836_5be8268daf1bdffe6c371e5636f5d519.jpg 760w,
                /post/project2/numcomp_hu535661bce2c742bf7a0f6a055ac0b6d1_1023836_1200x1200_fit_q100_lanczos.jpg 1200w&#34;
@@ -180,7 +359,7 @@
                height=&#34;auto&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;figcaption&gt;
-      Figure 5: IMF and metallicity are crucial cluster properties to measure for predicting the number of compact objects and their gravitational wave merger rates at the Galactic Center. High metallicity of the NSC, modeled in this project ([Fe/H]=0.5, &lt;strong&gt;Chen et al., in prep&lt;/strong&gt;, yellow), predicts 3× fewer neutron stars (Left). A top-heavy IMF (α=1.7, Lu et al. 2013, red) predicts ~ 3× more black holes, 2× more neutron stars (right) than that with a canonical IMF &lt;strong&gt;(Chen et al., in prep)&lt;/strong&gt;.
+      Figure 5: IMF and metallicity are crucial cluster properties to measure for predicting the number of compact objects and their gravitational wave merger rates at the Galactic Center. High metallicity of the NSC, modeled in this project ([Fe/H]=0.5, &lt;strong&gt;Chen et al. 2023a&lt;/strong&gt;, yellow), predicts 3× fewer neutron stars (Left). A top-heavy IMF (α=1.7, Lu et al. 2013, red) predicts ~ 3× more black holes, 2× more neutron stars (right) than that with a canonical IMF &lt;strong&gt;(Chen et al. 2023a)&lt;/strong&gt;.
     &lt;/figcaption&gt;&lt;/figure&gt;
 </description>
     </item>
@@ -213,17 +392,25 @@
     
     <item>
       <title>Consistency of the Infrared Variability of SGR A* over 22 yr</title>
-      <link>https://zhuochen-ucla.github.io/publication/pub1/</link>
-      <pubDate>Wed, 11 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://zhuochen-ucla.github.io/publication/pub1/</guid>
+      <link>https://zhuochen-ucla.github.io/publication/pub2/</link>
+      <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://zhuochen-ucla.github.io/publication/pub2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Evidence of a Decreased Binary Fraction for Massive Stars within 20 milliparsecs of the Supermassive Black Hole at the Galactic Center</title>
+      <link>https://zhuochen-ucla.github.io/publication/pub6/</link>
+      <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://zhuochen-ucla.github.io/publication/pub6/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Unprecedented Near-infrared Brightness and Variability of Sgr A*</title>
-      <link>https://zhuochen-ucla.github.io/publication/pub2/</link>
+      <link>https://zhuochen-ucla.github.io/publication/pub5/</link>
       <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>https://zhuochen-ucla.github.io/publication/pub2/</guid>
+      <guid>https://zhuochen-ucla.github.io/publication/pub5/</guid>
       <description></description>
     </item>
     
@@ -335,10 +522,10 @@
     </item>
     
     <item>
-      <title>Envisioning the next decade of Galactic Center science: a laboratory for the study of the physics and astrophysics of supermassive black holes</title>
-      <link>https://zhuochen-ucla.github.io/publication/example/</link>
-      <pubDate>Fri, 31 May 2019 00:00:00 +0000</pubDate>
-      <guid>https://zhuochen-ucla.github.io/publication/example/</guid>
+      <title>Measuring the alpha-abundance of subsolar-metallicity stars in the Milky Way&#39;s central half-parsec: testing globular cluster and dwarf galaxy infall scenarios</title>
+      <link>https://zhuochen-ucla.github.io/publication/pub4/</link>
+      <pubDate>Sun, 07 Jul 2019 00:00:00 +0000</pubDate>
+      <guid>https://zhuochen-ucla.github.io/publication/pub4/</guid>
       <description></description>
     </item>
     
@@ -515,6 +702,14 @@ Three
     </item>
     
     <item>
+      <title>Envisioning the next decade of Galactic Center science: a laboratory for the study of the physics and astrophysics of supermassive black holes</title>
+      <link>https://zhuochen-ucla.github.io/publication/example/</link>
+      <pubDate>Wed, 31 May 2017 00:00:00 +0000</pubDate>
+      <guid>https://zhuochen-ucla.github.io/publication/example/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title></title>
       <link>https://zhuochen-ucla.github.io/admin/config.yml</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -523,10 +718,10 @@ Three
     </item>
     
     <item>
-      <title>Measuring the alpha-abundance of subsolar-metallicity stars in the Milky Way&#39;s central half-parsec: testing globular cluster and dwarf galaxy infall scenarios</title>
-      <link>https://zhuochen-ucla.github.io/publication/pub4/</link>
+      <title>Chandra X-ray measurement of gas-phase heavy element abundances in the central parsec of the galaxy</title>
+      <link>https://zhuochen-ucla.github.io/publication/pub7/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://zhuochen-ucla.github.io/publication/pub4/</guid>
+      <guid>https://zhuochen-ucla.github.io/publication/pub7/</guid>
       <description></description>
     </item>
     
